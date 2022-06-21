@@ -22,7 +22,7 @@
 #pragma once
 
 ////////////////////////////
-// VENDOR VERSION EXAMPLE //
+// fransjedansje goes woohw //
 ////////////////////////////
 
 /**
